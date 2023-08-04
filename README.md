@@ -1,1 +1,1 @@
-mn6nSePVpTTovs9Wl+ed5QoQdR4gR9o+qe+6iJw78iFMnJbUMr4IKwzszsF3ajQ8/YH5mvmQCgP/3dCdbJ6TUVnfNoiEkd/dnQPgM06TRdFIQtMWqTvagFZYNmYxHor2P1HO3aeVmAg6//ChKzTiA/HFYgWPfteH1tsukKfiSLpGGgsj408i+9gYgFOkTQOHuWE+xip18CaxSLjJTA8Lyzbbcr+zHYF6Hjc1YmNVx7uBDSYkN8vtu8UW+D4ay9D/88K0biptT/uVzj8AobhmlCS4YVlEKpWfPUSxywnVg4699c7oUOMNTd636e3Pbo5+
+vless://abaf65d6-d533-4fcd-a32a-04e06f03938c@[::ffff:c3fe:a58d]:443?mode=gun&security=reality&encryption=none&pbk=NB7GIQ5iqjm2KM6h2lKBq5KIzMtgEBTd4OJIbMx6QSY&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=www.speedtest.net&sid=219b5af8#Vip
